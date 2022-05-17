@@ -1,5 +1,5 @@
-# dlgTool-AJ-Android-Edition
-dlgTool modification for AJ mobile port script
+# dlgTool AJ Mobile Edition
+dlgTool modification for AJ mobile port script (IOS was not checked though)
 
 This is the modification of onepiecefreak's dlgTool: https://github.com/onepiecefreak3/dlgTool
 
