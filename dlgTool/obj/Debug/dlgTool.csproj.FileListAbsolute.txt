@@ -1,0 +1,11 @@
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\obj\Debug\dlgTool.csproj.CoreCompileInputs.cache
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\bin\Debug\dlgTool.exe.config
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\bin\Debug\dlgTool.exe
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\bin\Debug\dlgTool.pdb
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\bin\Debug\System.ValueTuple.dll
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\bin\Debug\System.ValueTuple.xml
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\obj\Debug\dlgTool.csproj.CopyComplete
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\obj\Debug\dlgTool.exe
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\obj\Debug\dlgTool.pdb
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\obj\Debug\dlgTool.csproj.AssemblyReference.cache
+C:\Users\userpc\Downloads\dlgTool-master\dlgTool-master\dlgTool\obj\Debug\dlgTool.csproj.SuggestedBindingRedirects.cache
