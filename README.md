@@ -1,7 +1,7 @@
 # dlgTool-AJ-Android-Edition
 dlgTool modification for AJ mobile port script
 
-This is the modification of the onepiecefreak's dlgTool: https://github.com/onepiecefreak3/dlgTool
+This is the modification of onepiecefreak's dlgTool: https://github.com/onepiecefreak3/dlgTool
 
 # Changes
 1. The condPointers placing bug is fixed.
