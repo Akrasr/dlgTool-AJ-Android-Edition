@@ -25,3 +25,6 @@ You can extract mes_all.txt from it and put it back with programs like UnityEX(h
 
 # Any GUI script editors?
 Check out my script editor for AJ script: https://github.com/Akrasr/Apollo-Justice-Script-Editor
+
+# Font edits
+If you edit the font, you will need to update aj3dsOrigCharConv dictionary in the way you'll need it.
