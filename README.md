@@ -12,7 +12,6 @@ This is the modification of onepiecefreak's dlgTool: https://github.com/onepiece
 6. The support for AJ mobile port script is added.
 7. The font and game params are no longer supported.
 
-I have also added Russian glyphs since I am working on Russian translation of AJ.
 You may find some leftover code for AATrilogy and AJ3DS support.
 
 # AJ Mobile Support
